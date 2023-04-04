@@ -6,7 +6,7 @@
 <br />
  <p align="center">
     <img src="https://yt3.googleusercontent.com/xTmRjY6I1PNWO6KhAX59R-sqgbcPvTqkg2FbcZ8wvnjIqwwh5OBpzT69xQ_RO29J3DEofZX2qw=s176-c-k-c0x00ffffff-no-rj" alt="Logo" width="80" height="80" />
-    <h3 align="center "><a href="https://github.com/easinwebpro/think_redux-way_edevs" target="_blank" >Tailwind CSS Practice </a></h3>
+    <h3 align="center "><a href="https://github.com/easinwebpro/think_redux-way_edevs" target="_blank"> Tailwind CSS Practice </a></h3>
 </p>
 
 
@@ -17,11 +17,11 @@ Please follow the below instructions to run different branches of this repositor
 
 1. Clone this repository -
     ```sh
-    git clone https://github.com/easinwebpro/think_redux-way_edevs.git
+    git clone https://github.com/easinwebpro/tailwind_css_practices.git
     ```
 2. Go to the cloned project directory
     ```sh
-    cd think_redux-way_edevs
+    cd tailwind_css_practices
     ```
 3. Checkout/switch to your desired branch. For example to switch to branch
     ```sh
