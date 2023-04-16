@@ -9,7 +9,7 @@
 
 
 .btn_green {
-    @apply  border-green-400  text-green-500 duration-200 hover:bg-green-400 
+    @apply border-green-400  text-green-500 duration-200 hover:bg-green-400 
 }
 
 .btn_purple {
